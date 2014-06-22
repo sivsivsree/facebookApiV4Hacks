@@ -1,5 +1,8 @@
 <?php
-phpversion();
+ /**
+  * @author SIV.S
+  *
+  **/
 require_once('init.php');
 
 ?>
